@@ -28,4 +28,3 @@ de Riscos (precificação de swaps, marcação a mercado, coleta de dados de
 mercado). Fico à disposição para conversar sobre qualquer um deles em
 mais detalhe.
 
-**Márcio Oliveira** — [github.com/EternalCodeBR](https://github.com/EternalCodeBR)
