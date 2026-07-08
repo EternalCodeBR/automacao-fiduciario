@@ -12,7 +12,7 @@ rotina manual repetitiva da área de Riscos.
 
 ---
 
-## 🧩 Problema
+## Problema
 
 A área de Riscos precisava publicar, todo dia útil, o histórico de PU de
 4 ativos (debêntures, notas comerciais e CRIs) no site da empresa. O
@@ -34,7 +34,7 @@ riscos concretos:
   o anexo sem que a troca realmente tivesse ocorrido — um problema que só
   aparecia horas depois, quando alguém notava o PU desatualizado no ar.
 
-## ✅ Solução
+## Solução
 
 Um orquestrador Python (`src/atualizar_precos.py`) que executa o fluxo
 completo em uma única chamada, dividido em 3 etapas:
@@ -90,7 +90,7 @@ flowchart TD
 | Interface de progresso | Tkinter |
 | Notificação | Webhook (Adaptive Card via Power Automate) |
 
-## 📈 Resultado
+## Resultado
 
 - Rotina diária que levava **manutenção manual em várias etapas** passou a
   rodar com **uma única execução**, do recálculo no Excel até a
@@ -107,7 +107,7 @@ flowchart TD
 
 ---
 
-## 🚀 Como rodar
+## Como rodar
 
 ### Pré-requisitos
 
@@ -151,7 +151,7 @@ editor em UTF-8, que corrompe acentuação e quebra caminhos de arquivo.
 
 ---
 
-## 📁 Estrutura
+## Estrutura
 
 ```
 .
