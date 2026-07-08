@@ -1,9 +1,0 @@
-.env
-__pycache__/
-*.pyc
-.venv/
-*.xlsm
-*.xlsx
-*.xls
-*.bak*
-*.log
