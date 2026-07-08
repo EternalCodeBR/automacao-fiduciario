@@ -1,4 +1,4 @@
-# Automação da atualização diária de preços (renda fixa)
+# Automação da atualização diária de preços
 
 ## O problema
 
