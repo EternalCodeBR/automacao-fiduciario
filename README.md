@@ -26,7 +26,7 @@ Construí um pipeline que faz essa atualização sozinho, do início ao fim, em
 
 ## Resultado
 
-- **6 etapas manuais viraram 1 comando**: uma rotina de 30–45 minutos por
+- **6 etapas manuais foram eliminadas**: uma rotina de 30–45 minutos por
   dia, com vários pontos de falha, passou a rodar sozinha, do recálculo até
   a divulgação do PU no site.
 - A equipe passou a ser avisada automaticamente, com o motivo exato
